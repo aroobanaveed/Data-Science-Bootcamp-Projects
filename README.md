@@ -1,4 +1,3 @@
-# Data-Science-Bootcamp-Project
  Healthcare EDA Project:
 
 This project performs Exploratory Data Analysis (EDA) on a real-world hospital admission dataset. The goal is to uncover trends, patterns, and insights from patient data using Python and data visualization libraries.
